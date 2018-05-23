@@ -1,0 +1,10 @@
+.LoginPage {
+    text-align: center;
+    background-image: url('/images/HomePageCover.jpeg');
+    background-repeat: no-repeat;
+}
+#inputContainer {
+    background-color: yellow;
+    width: 50%;
+    margin-left: 25%;
+}

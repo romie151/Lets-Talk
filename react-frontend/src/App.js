@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { Route, Switch, Link } from 'react-router-dom'
-import Home from './Components/Login/Home';
-import Login from './Components/Login/Login'
-import Register from './Components/Login/Register'
+import Home from './Components/UserLogin/Home';
+import Login from './Components/UserLogin/Login'
+import Register from './Components/UserLogin/Register'
 
 class App extends Component {
   render() {
