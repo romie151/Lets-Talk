@@ -1,0 +1,12 @@
+#navBar {
+    border: solid 2px black;
+    /* height: 100%; */
+}
+
+#nav-title-home, #nav-title-message, #nav-title-profile {
+    width: 20%;
+    display: flex;
+    justify-content: space-evenly;
+    align-content: space-around;
+    float: left;
+}
